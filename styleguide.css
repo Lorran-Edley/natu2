@@ -1,0 +1,40 @@
+:root {
+    --wwwfigmacomblack: rgba(0, 0, 0, 1);
+    --www-figma-com-inter-italic-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-italic-font-weight: 400;
+    --www-figma-com-inter-italic-font-size: 11px;
+    --www-figma-com-inter-italic-letter-spacing: 0px;
+    --www-figma-com-inter-italic-line-height: normal;
+    --www-figma-com-inter-italic-font-style: italic;
+    --www-figma-com-inter-regular-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-regular-font-weight: 400;
+    --www-figma-com-inter-regular-font-size: 11px;
+    --www-figma-com-inter-regular-letter-spacing: 0px;
+    --www-figma-com-inter-regular-line-height: normal;
+    --www-figma-com-inter-regular-font-style: normal;
+    --www-figma-com-inter-medium-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-medium-font-weight: 500;
+    --www-figma-com-inter-medium-font-size: 11px;
+    --www-figma-com-inter-medium-letter-spacing: 0px;
+    --www-figma-com-inter-medium-line-height: normal;
+    --www-figma-com-inter-medium-font-style: normal;
+    --www-figma-com-inter-medium-italic-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-medium-italic-font-weight: 500;
+    --www-figma-com-inter-medium-italic-font-size: 11px;
+    --www-figma-com-inter-medium-italic-letter-spacing: 0px;
+    --www-figma-com-inter-medium-italic-line-height: normal;
+    --www-figma-com-inter-medium-italic-font-style: italic;
+    --www-figma-com-inter-semi-bold-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-semi-bold-font-weight: 600;
+    --www-figma-com-inter-semi-bold-font-size: 11px;
+    --www-figma-com-inter-semi-bold-letter-spacing: 0px;
+    --www-figma-com-inter-semi-bold-line-height: normal;
+    --www-figma-com-inter-semi-bold-font-style: normal;
+    --www-figma-com-inter-semi-bold-italic-font-family: "Inter", Helvetica;
+    --www-figma-com-inter-semi-bold-italic-font-weight: 600;
+    --www-figma-com-inter-semi-bold-italic-font-size: 11px;
+    --www-figma-com-inter-semi-bold-italic-letter-spacing: 0px;
+    --www-figma-com-inter-semi-bold-italic-line-height: normal;
+    --www-figma-com-inter-semi-bold-italic-font-style: italic;
+   }
+   

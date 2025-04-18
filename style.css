@@ -1,0 +1,517 @@
+.client-registration {
+    position: relative;
+    width: 1630px;
+    height: 13494px;
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  }
+  
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+.results-gallery img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+.client-registration .overlap {
+    position: absolute;
+    width: 4695px;
+    height: 11706px;
+    top: 1021px;
+    left: -451px;
+}
+
+.client-registration .rectangle {
+    position: absolute;
+    width: 1452px;
+    height: 8792px;
+    top: 0;
+    left: 540px;
+}
+
+.client-registration .register {
+    display: flex;
+    width: 588px;
+    height: 130px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 20px;
+    position: absolute;
+    top: 3644px;
+    left: 972px;
+    background-color: #82da56;
+    border-radius: 50px;
+}
+
+.client-registration .visit-our-gym {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.client-registration .academia-segunda {
+    position: absolute;
+    width: 960px;
+    height: 1757px;
+    top: 1283px;
+    left: 786px;
+    object-fit: cover;
+}
+
+.client-registration .atrav-s-de-um-plano {
+    position: absolute;
+    width: 1043px;
+    top: 608px;
+    left: 727px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 1.80px;
+    line-height: normal;
+}
+
+.client-registration .text-wrapper {
+    color: #ffffff;
+    letter-spacing: 0.65px;
+}
+
+.client-registration .span {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 0.65px;
+}
+
+.client-registration .text-wrapper-2 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #82da56;
+    letter-spacing: 0.65px;
+}
+
+.client-registration .por-somente-r {
+    position: absolute;
+    width: 975px;
+    top: 3138px;
+    left: 778px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 12.80px;
+    line-height: normal;
+}
+
+.client-registration .cancele-a-qualquer {
+    position: absolute;
+    width: 1167px;
+    top: 3872px;
+    left: 682px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #6f6f6f;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 2.80px;
+    line-height: normal;
+}
+
+.client-registration .CARROSEL {
+    display: flex;
+    width: 4695px;
+    height: 1212px;
+    align-items: center;
+    gap: 50px;
+    position: absolute;
+    top: 5571px;
+    left: 0;
+    overflow-x: scroll;
+}
+
+.client-registration .CARROSEL::-webkit-scrollbar {
+    width: 0;
+    display: none;
+}
+
+.client-registration .frame {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-10.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .div {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-20.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .frame-2 {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-30.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .frame-3 {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-40.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .frame-4 {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-50.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .frame-5 {
+    position: relative;
+    width: 725px;
+    height: 1212px;
+    background-image: url(frame-60.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .ellipse {
+    top: 6482px;
+    position: absolute;
+    width: 2171px;
+    height: 470px;
+    left: 130px;
+    background-color: #000000;
+    border-radius: 1085.5px / 235px;
+}
+
+.client-registration .ellipse-2 {
+    top: 5412px;
+    position: absolute;
+    width: 2171px;
+    height: 470px;
+    left: 130px;
+    background-color: #000000;
+    border-radius: 1085.5px / 235px;
+}
+
+.client-registration .text-wrapper-3 {
+    position: absolute;
+    width: 939px;
+    top: 5411px;
+    left: 767px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 9.60px;
+    line-height: normal;
+}
+
+.client-registration .img {
+    position: absolute;
+    width: 918px;
+    height: 443px;
+    top: 67px;
+    left: 790px;
+}
+
+.client-registration .para-de-perder-seu {
+    position: absolute;
+    width: 1272px;
+    height: 790px;
+    top: 4487px;
+    left: 630px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.client-registration .text-wrapper-4 {
+    color: #82da56;
+}
+
+.client-registration .text-wrapper-5 {
+    color: #ffffff;
+}
+
+.client-registration .frame-6 {
+    position: absolute;
+    width: 1253px;
+    height: 4323px;
+    top: 7383px;
+    left: 620px;
+    background-color: #000000;
+    border-radius: 60px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: #82da56;
+}
+
+.client-registration .frame-7 {
+    position: absolute;
+    width: 909px;
+    height: 1504px;
+    top: 90px;
+    left: 191px;
+    border-radius: 60px;
+    background-image: url(frame-71.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.client-registration .frame-8 {
+    position: absolute;
+    width: 1202px;
+    height: 1130px;
+    top: 2074px;
+    left: 45px;
+    border-radius: 60px;
+}
+
+.client-registration .assine-hoje-por {
+    position: absolute;
+    width: 1165px;
+    top: 3377px;
+    left: 63px;
+    font-family: "Poly-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 12.80px;
+    line-height: normal;
+}
+
+.client-registration .text-wrapper-6 {
+    font-family: "Poly-Italic", Helvetica;
+    font-style: italic;
+    color: #ffffff;
+    letter-spacing: 16.38px;
+}
+
+.client-registration .text-wrapper-7 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 72px;
+    letter-spacing: 5.18px;
+}
+
+.client-registration .text-wrapper-8 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 85px;
+    letter-spacing: 7.22px;
+}
+
+.client-registration .text-wrapper-9 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #82da56;
+    font-size: 85px;
+    letter-spacing: 7.22px;
+}
+
+.client-registration .visit-our-gym-wrapper {
+    width: 1024px;
+    height: 157px;
+    top: 3772px;
+    left: 133px;
+    border-radius: 60px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 20px;
+    position: absolute;
+    background-color: #82da56;
+}
+
+.client-registration .visit-our-gym-2 {
+    font-size: 70px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.client-registration .p {
+    position: absolute;
+    width: 1002px;
+    height: 236px;
+    top: 4037px;
+    left: 144px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #6f6f6f;
+    font-size: 55px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.client-registration .overlap-group {
+    position: absolute;
+    width: 1632px;
+    height: 703px;
+    top: -3px;
+    left: -2px;
+}
+
+.client-registration .rectangle-2 {
+    position: absolute;
+    width: 1630px;
+    height: 76px;
+    top: 0;
+    left: 2px;
+    background-color: #000000;
+}
+
+.client-registration .rectangle-3 {
+    position: absolute;
+    width: 1630px;
+    height: 620px;
+    top: 76px;
+    left: 2px;
+    background: linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.49) 0%,
+        rgba(0, 0, 0, 0.49) 100%
+    );
+}
+
+.client-registration .rectangle-4 {
+    position: absolute;
+    width: 1442px;
+    height: 331px;
+    top: 372px;
+    left: 0;
+    background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.25) 0%,
+        rgba(0, 0, 0, 1) 86%
+    );
+}
+
+.client-registration .pr-tico-e-intenso {
+    position: absolute;
+    width: 780px;
+    height: 425px;
+    top: 159px;
+    left: 53px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 1.60px;
+    line-height: normal;
+}
+
+.client-registration .text-wrapper-10 {
+    color: #82da56;
+    letter-spacing: 0.51px;
+}
+
+.client-registration .text-wrapper-11 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+@keyframes fadeInHeader {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  header {
+    animation: fadeInHeader 1.5s ease-out;
+  }
+
+  button {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.4s ease;
+  }
+  
+  button::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: rgba(255, 255, 255, 0.3);
+    transition: width 0.4s ease, height 0.4s ease, top 0.4s ease, left 0.4s ease;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  button:hover::after {
+    width: 0;
+    height: 0;
+    top: 50%;
+    left: 50%;
+  }
+
+  header {
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  header video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    transform: scale(1.2);
+  }
+  
